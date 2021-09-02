@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 I am looking for opportunities a Data Scientist, and I also hold a MSc degree in Physics. 
 
-I have been studying Data Science since April/2021 and, thus, I have 5 months of professional experience in the area by working in the projects detailed below.
+I have been studying Data Science since April/2021 and, thus, I have 5 months of professional experience in the area by working on the projects detailed below.
 
 ### :toolbox: Toolbox
 
