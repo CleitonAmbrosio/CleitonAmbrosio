@@ -25,26 +25,16 @@ I have been studying Data Science since April/2021 and, thus, I have 5 months of
 
 ### :toolbox: Toolbox
 
+- **Main tools:** Python, SQL, Git, Linux, Power BI, Heroku
+- **Other languages:** Matlab, Fortran, LaTeX, Mathematica
+
+
 <!--
 I have mastery of all stages of developing a business solution using the concepts and tools of Data Science, from understanding the business to publishing the model in production using Clouds.
 
 I have already developed solutions for important business problems such as detecting fraud in transactions, classifying diseases early, identifying customers in churn and prioritizing customers for cross-selling.
 
 The details of each solution are described in the projects below.
-
-**Analytical Tools:**
-
-**Data Collection and Storage:** SQL
-
-**Data Processing and Analysis:** Python
-
-**Development:** Git, Linux
-
-**Data Vizualization:** Power BI
-
-**Machine Learning Modeling:** Regression 
-
-**Machine Learning Deployment:** Heroku 
 
 -->
 
