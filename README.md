@@ -25,7 +25,7 @@ I have been studying Data Science since April/2021 and, thus, I have 5 months of
 
 ### :toolbox: Toolbox
 
-- **Main tools:** Python, SQL, Git, Linux, Power BI, Heroku
+- **Main tools:** Python, SQL, Git, Power BI, Heroku
 - **Other languages:** Matlab, Fortran, LaTeX, Mathematica
 
 
