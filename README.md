@@ -44,5 +44,6 @@ Moreover, I believe Data Science to be more based on a good understanding of the
 
 Knowing in advance the income for the next few weeks can be decisive for managing a store towards a more accelerated growth. 
 
-In this project, I developed a Machine Learning solution to predict the sales for each unit of a chain of stores for the next 6 weeks. The final model generated daily predictions with **at least 85% of accuracy** for **97.04%** of the stores. In the overall of the units, the **actual income of $289,571,750.00** for the 6 weeks was **predicted to be $286,722,368.00**, corresponding to a subestimation of only 0.98%. 
-The predictions per store were made available through a Telegram bot.
+In this project, I developed a Machine Learning solution to predict the sales for each unit of a chain of stores for the next 6 weeks.  
+   The final model generated daily forecasts with **at least 85% of accuracy** for **97.04%** of the stores. In the overall of the units, the **actual income of $289,571,750.00** for the 6 weeks was **predicted to be $286,722,368.00**, corresponding to a subestimation of only 0.98%.   
+   The predictions per store were made available through a Telegram bot.
