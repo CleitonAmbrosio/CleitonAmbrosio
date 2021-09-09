@@ -40,11 +40,11 @@ Moreover, I believe Data Science to be more based on a good understanding of the
 
 ## Data Science Projects
 
-### "Insiders" Fidelity Program
+### "Insiders" Fidelity Program (9/2021 - Present)
 
 Creation of a loyalty program for an online retail store through the segmentation of the customer base and identification of the most valuable users.
 
-### [Rossmann Stores Sales Forecast]( https://github.com/CleitonAmbrosio/Rossmann-Store-Sales-Forecast )
+### [Rossmann Stores Sales Forecast]( https://github.com/CleitonAmbrosio/Rossmann-Store-Sales-Forecast ) (5/2021 - 8/2021)
 
 Knowing in advance the income for the next few weeks can be decisive for managing a store towards a more accelerated growth. 
 
