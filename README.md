@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## About
 
-I am currently looking for opportunities as a *Data Scientist*, but I also hold a *MSc degree in Physics*. 
+I am currently working as a *Jr Data Science Analyst*, but I also hold a *MSc degree in Physics*. 
 
 I have been studying Data Science since April/2021 and, thus, I have 5 months of professional experience in the area by working on the projects detailed below. Much of that is due to being part of a private Data Science Community with +400 members, which features the development of a variety of Data projects, study groups and discussion sessions with aspirants and professionals in the Data field. 
 
