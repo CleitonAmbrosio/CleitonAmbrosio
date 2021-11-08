@@ -30,7 +30,7 @@ Moreover, I believe Data Science to be more based on a good understanding of the
 ### :toolbox: Toolbox
 
 - **Main tools:** Python, SQL, Git, Power BI, Heroku, DBT
-- **Other languages:** Matlab, Fortran, LaTeX, Mathematica
+- **Other languages:** Matlab, Fortran, LaTeX
 
 
 ### 📫 Reach me
