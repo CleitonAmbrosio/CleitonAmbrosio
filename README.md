@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 I am currently working as a *Jr Data Scientist*, but I also hold a *MSc degree in Physics*. 
 
-I have been studying Data Science since April/2021 and, thus, I have 1.3 years of professional experience in the area, in particular through the projects detailed below. Much of that is due to being part of a private Data Science Community with +500 members, which features the development of a variety of Data projects, study groups and discussion sessions with aspirants and professionals in the Data field. 
+I have been studying Data Science since April/2021 and, thus, I have 1.5 years of professional experience in the area, in particular through the projects detailed below. Much of that is due to being part of a private Data Science Community with +500 members, which features the development of a variety of Data projects, study groups and discussion sessions with aspirants and professionals in the Data field. 
 
 I feel confident about my abilities on developing all the stages of a business solution using the concepts and tools of Data Science, from understanding the business problem to deploying the final model to production.
 
@@ -39,13 +39,14 @@ Moreover, I believe Data Science to be more based on a good understanding of the
 * [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:cleiton.o.ambrosio@gmail.com)](mailto:cleiton.o.ambrosio@gmail.com)
 
 
-## Data Science Projects
+## Data Science Projects (5/2021 - Present)
 
-### "Insiders" Fidelity Program (9/2021 - Present)
+### ["Insiders" Fidelity Program](https://github.com/CleitonAmbrosio/Insiders-Fidelity-Program)
 
+_Under development_.  
 Creation of a loyalty program for an online retail store through the segmentation of the customer base and identification of the most valuable users.
 
-### [Rossmann Stores Sales Forecast]( https://github.com/CleitonAmbrosio/Rossmann-Store-Sales-Forecast ) (5/2021 - 8/2021)
+### [Rossmann Stores Sales Forecast]( https://github.com/CleitonAmbrosio/Rossmann-Store-Sales-Forecast )
 
 Knowing in advance the income for the next few weeks can be decisive for managing a store towards a more accelerated growth. 
 
