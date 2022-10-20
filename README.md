@@ -29,7 +29,7 @@ Moreover, I believe Data Science to be more based on a good understanding of the
 
 ### :toolbox: Toolbox
 
-- **Main tools:** Python, SQL, Git, DBT, k8s, Prefect, AWS, Power BI, Heroku
+- **Main tools:** Python, SQL, Git, GitHub Actions, DBT, Kubernetes, Prefect, AWS, Linux, Power BI, Heroku
 - **Databases:** Oracle, Snowflake
 - **Other languages:** Matlab, Fortran, LaTeX
 
